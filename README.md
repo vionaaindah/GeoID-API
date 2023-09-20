@@ -1,7 +1,7 @@
 # GeoID-API
 Province, Regencies, Districts, and Villages API Data of Indonesia
 
-## ENDPOINTS
+## GET FILE DATA
 
 #### 1. Mengambil Daftar Provinsi
 
