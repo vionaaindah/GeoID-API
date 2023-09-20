@@ -6,7 +6,7 @@ Province, Regencies, Districts, and Villages API Data of Indonesia
 #### 1. Mengambil Daftar Provinsi
 
 ```
-GET https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/provinces.json
+https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/provinces.json
 ```
 
 Contoh Response
@@ -34,7 +34,7 @@ Contoh Response
 #### 2. Mengambil Daftar Kabupaten/Kota
 
 ```
-GET https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/regencies.json
+https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/regencies.json
 ```
 
 Contoh Response
@@ -64,7 +64,7 @@ Contoh Response
 #### 3. Mengambil Daftar Kecamatan
 
 ```
-GET https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/districts.json
+https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/districts.json
 ```
 
 Contoh Response
@@ -94,7 +94,7 @@ Contoh Response
 #### 4. Mengambil Daftar Kelurahan/Desa
 
 ```
-GET https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/villages.json
+https://raw.githubusercontent.com/vionaaindah/GeoID-API/main/villages.json
 ```
 
 Contoh Response
